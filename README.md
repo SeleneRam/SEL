@@ -7,7 +7,7 @@ Then, run the code "SELCompiler.m," where the script name will be requested.
 The compiler will detect if the script code is well and then run.
 It will analyze the video with the activities and show the result at the end.
 
-<hr>
+
 <img src="https://i.ibb.co/nw7BqrN/Captura.png" alt="" width="400"/><br>
 <hr>
 <img src="https://i.ibb.co/jffcTWz/Captura2.png" alt="" width="400"/><br>
@@ -17,7 +17,7 @@ It will analyze the video with the activities and show the result at the end.
 <img src="https://i.ibb.co/NTtRLKD/Captura4.png" alt="" width="400" /><br>
 <hr>
 <img src="https://i.ibb.co/0CQGRdz/Captura5.png" alt="" width="400" /><br>
-<hr>
+
 Technologies:
 - OCTAVE 
 
