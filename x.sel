@@ -1,0 +1,10 @@
+module x;
+export "C:\Users\selen\OneDrive\Documentos\PRUEBA\atrium1.mp4";
+state a=[(1,1),(9,16),(3,8),(4,8),(5,8),(6,8),(5,5),(6,5),(5,6),(9,10)];
+state b=[(2,7),(2,8),(9,1),(1,16),(2,2),(9,9),(5,5),(4,4),(7,7),(9,1),(9,2),(9,3),(9,4)];
+state c=[(8,15),(9,14),(9,15)];
+begin;
+seq(a,b);%activity1;
+par(a,b);%activity2;
+con(a,c);%activity3;
+end;
